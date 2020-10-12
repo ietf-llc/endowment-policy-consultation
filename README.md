@@ -31,6 +31,8 @@ Some things have changes to reflect the introduction of the IETF LLC and the dif
 
 4.  The ISOC policy contained a significant amount of  administrative process, which for the IETF LLC is superseded by its Accounting Policy [8].
 
+5.  Added a section intended to ensure that the language around the endowment is tightly controlled and does not introduce any unintentional new restrictions.
+
 The net result is a much shorter proposed new policy.
 
 # Feedback
@@ -42,7 +44,7 @@ The IETF LLC now seeks community feedback on this proposed policy.  Please provi
 * Direct to the IETF LLC Board (not including the IETF Executive Director) at llc-board-only@ietf.org
 * To the ietf@ietf.org list 
 
-[1]
+[1] https://github.com/ietf-llc/endowment-policy-consultation/blob/main/DRAFT%20IETF%20LLC%20Endowment%20Policy.md
 [2] https://web.archive.org/web/20120804202615/http://www.openinternetendowment.org/ 
 [3] https://web.archive.org/web/20150709225828/http://www.sustainietf.org/ 
 [4] https://www.internetsociety.org/news/press-releases/2016/leading-companies-and-organizations-commit-over-us3m-to-internet-engineering-task-force-endowment/ 
