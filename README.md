@@ -39,7 +39,7 @@ The net result is a much shorter proposed new policy.
 
 The IETF LLC now seeks community feedback on this proposed policy.  Please provide feedback by 26 October 2020 04:00 UTC using any of the following methods:
 
-* Raising an issue on this Github repository [2]
+* Raising an issue on this Github repository [9]
 * Direct to the IETF Executive Director at exec-director@ietf.org
 * Direct to the IETF LLC Board (not including the IETF Executive Director) at llc-board-only@ietf.org
 * To the ietf@ietf.org list 
@@ -52,3 +52,4 @@ The IETF LLC now seeks community feedback on this proposed policy.  Please provi
 [6] https://tools.ietf.org/html/rfc8711
 [7] https://www.ietf.org/media/documents/IETF_IPS_ADOPTED_20191218_REDACTED.pdf
 [8] https://www.ietf.org/media/documents/IETF_LLC_Accounting_Policy_2020-07-03.pdf
+[9] https://github.com/ietf-llc/endowment-policy-consultation/issues
