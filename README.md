@@ -2,7 +2,7 @@ The IETF Administration LLC has drafted a proposed update [1] to the policy cove
 
 # Background
 
-When donations are accepted for an endowment a policy is provided which acts as a binding contract for how those funds must be managed.  There are generally two types of statements in such as a policy: some general rules that can change to meet changing circumstances; and a set of restrictions that cannot be changed without the consent of the original donors.  The new policy proposed by the IETF LLC maintains the same set of restrictions as the previous policy and so its adoption does not require consent from the donors.
+When donations are accepted for an endowment a policy is provided which acts as a binding contract for how those funds must be managed.  There are generally two types of statements in such as a policy: general rules that can change to meet changing circumstances; and a set of restrictions that cannot be changed without the consent of the original donors.  The new policy proposed by the IETF LLC maintains the same set of restrictions as the previous policy and so its adoption does not require consent from the donors.
 
 # History
 
@@ -10,7 +10,7 @@ The Internet Society (ISOC) launched an “Open Internet Endowment” in 2012 [2
 
 ISOC maintained a policy for the endowment [5] setting out what restrictions were applied to donated funds and how the endowment would be managed.  Most of the funds were donated solely subject to that policy.  In 2015 along with the rename, ISOC launched the sustainietf.org website and received a small total of donations through that website.  Those donations were subject to an additional restriction specified in the text on that website, to maintain the principal of the associated donations. 
 
-When the endowment transferred the ISOC policy came with it and the restrictions on ISOC in that policy transferred to the IETF LLC.  This policy replaces that old ISOC policy. 
+When the endowment transferred, the ISOC policy came with it and the restrictions on ISOC in that policy transferred to the IETF LLC.  This policy replaces that old ISOC policy. 
 
 # Elements that have not changed
 
@@ -25,13 +25,13 @@ Some things have changes to reflect the introduction of the IETF LLC and the dif
 
 1.  The applicable law has changed from the US District of Columbia to the US State of Delware, where the IETF LLC is registered.
 
-2.  The ISOC endowment policy notionally created an endowment council chosen from the donors that had to be consulted on key endowment decisions. As far as we know, this council was never established.  The new policy no longer includes such a council so as not to undermine the financial management role of the IETF LLC board as delegated to it by RFC 8711 [6].
+2.  The ISOC endowment policy notionally created an endowment council chosen from the donors that had to be consulted on key endowment decisions.  As far as we know, this council was never established.  The new policy no longer includes such a council so as not to undermine the financial management role of the IETF LLC board as delegated to it by RFC 8711 [6].
 
 3.  The ISOC policy set out a variety of specifics on how the endowment funds should be managed.  The new policy replaces this with a reference to the IETF LLC's existing Investment Policy Statement [7].
 
-4.  The ISOC policy contained a significant amount of  administrative process, which for the IETF LLC is superseded by its Accounting Policy [8].
+4.  The ISOC policy contained a significant amount of administrative process, which is superseded by the IETF LLC Accounting Policy [8].
 
-5.  Added a section intended to ensure that the language around the endowment is tightly controlled and does not introduce any unintentional new restrictions.
+5.  A section has been added to ensure that the language around the endowment is tightly controlled and does not introduce any unintentional new restrictions.
 
 The net result is a much shorter proposed new policy.
 
