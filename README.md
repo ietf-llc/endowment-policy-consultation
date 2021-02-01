@@ -1,3 +1,5 @@
+**THIS CONSULTATION HAS NOW CLOSED**
+
 The IETF Administration LLC has drafted a proposed update [1] to the policy covering the IETF Endowment and now seeks community feedback on the proposed changes.
 
 # Background
